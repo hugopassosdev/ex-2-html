@@ -5,12 +5,12 @@ body{
 }
 
 header{
-    background-color: #46b458;
     color: #fff;
     padding: 0 20px 0 20px;
     display: flex;
     justify-content: space-between;
     align-items: center;
+    background-image: linear-gradient(to right, #157211, #0a3d09);
 }
 
 main{
@@ -36,7 +36,7 @@ main img {
 }
 
 footer {
-    background-color: #46b458;
+    background-image: linear-gradient(to right, #157211, #0a3d09);
     color: #ffff;
     text-align: center;
     padding: 10px;
